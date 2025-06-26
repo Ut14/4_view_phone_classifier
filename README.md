@@ -2,13 +2,13 @@
 
 A lightweight web application that classifies phone images into **Front**, **Back**, **Top**, or **Bottom** views using a combination of the **CLIP Vision Model** and an **SVM classifier**.
 
-Hosted on [🤗 Hugging Face Spaces](https://huggingface.co/spaces/Ut14/Phone_view_classfier) using **Gradio**.
+Hosted on [🤗 Hugging Face Spaces](https://huggingface.co/spaces/Ut14/Phone-4-view-classifier) using **Gradio**.
 
 ---
 
 ## 🚀 Demo
 
-[![Gradio App](https://img.shields.io/badge/Live%20Demo-Huggingface-blue?logo=huggingface)](https://huggingface.co/spaces/Ut14/Phone_view_classfier)
+[![Gradio App](https://img.shields.io/badge/Live%20Demo-Huggingface-blue?logo=huggingface)](https://huggingface.co/spaces/Ut14/Phone-4-view-classifier)
 
 ---
 
