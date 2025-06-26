@@ -40,6 +40,6 @@ for label in os.listdir(input_root):
                 aug_img = augment(img)
                 aug_img.save(os.path.join(class_output_path, f"{base_name}_aug{i}.jpg"))
 
-            print(f"✅ Processed: {img_file} in '{label}'")
+            print(f"Processed: {img_file} in '{label}'")
         except Exception as e:
-            print(f"⚠️ Error with {img_file}: {e}")
+            print(f"Error with {img_file}: {e}")
